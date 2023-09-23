@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Coral Spawning"
+date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Coral Restoration
+  - Spawning 
+  - Montipora capitata
+summary: "My undergraduate honors thesis exploring optimal growth and survival conditions for juvenile coral."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">

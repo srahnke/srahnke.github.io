@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Historical Ecology"
+date: 2022
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Historical Reconstruction
+  - Indigenous Fisheries Management
+  - Python
+summary: "Reconstructing historical fisheries management in Hawaiʻi."
 ---
 
 <div class="text-center p-4">
